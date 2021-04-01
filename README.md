@@ -1,6 +1,6 @@
-# Lesson1
-Introduction to GitHub
-## chapter 1
+# lesson1
+introduction to gitHub
+## chapter 2
 Initial Test 
 ### Reports
 ## Chapter 2
